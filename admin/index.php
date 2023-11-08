@@ -1,5 +1,5 @@
 <?php
-// require_once "../models/chuyende.php";
+require_once "../models/chuyende.php";
 require_once "../controllers/controller_chuyende.php";
 
 $act = $_GET['act'] ?? "";
